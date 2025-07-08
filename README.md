@@ -1,3 +1,5 @@
+![JewelryDesignProject QRCode](https://github.com/user-attachments/assets/59365ced-1cb8-4834-ae87-665cfe07aaa8)
+
 # Jewelry Design Pattern Generation
 
 This project aims to generate realistic jewelry design patterns using machine learning techniques, particularly Generative Adversarial Networks (GANs). The project takes in grayscale images of jewelry designs and generates realistic, colored images of jewelry patterns.
